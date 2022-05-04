@@ -1,0 +1,207 @@
+                #index-body {
+                    background-image: url("../images/main-image-2.gif");
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 100%;
+                }
+                
+                #header-container {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    align-items: center;
+                    height: 180px;
+                    margin: -5px 0px 0px -5px;
+                }
+                
+                .logo {
+                    height: 150px;
+                }
+                
+                .services {
+                    font-family: 'Tapestry', cursive;
+                    color: white;
+                    font-size: 20px;
+                }
+                
+                .explore {
+                    font-family: 'Tapestry', cursive;
+                    color: white;
+                    font-size: 20px;
+                }
+                
+                .faq {
+                    font-family: 'Tapestry', cursive;
+                    color: white;
+                    font-size: 20px;
+                }
+                
+                .contact {
+                    font-family: 'Tapestry', cursive;
+                    color: white;
+                    font-size: 20px;
+                }
+                
+                #header {
+                    display: flex;
+                    height: 100px;
+                    font-family: 'Teko', sans-serif;
+                    color: antiquewhite;
+                    justify-content: center;
+                    font-size: 38px;
+                    margin: -5px 0px 0px -5px;
+                }
+                
+                #quote-container {
+                    display: flex;
+                    flex-direction: row;
+                    align-items: center;
+                    height: 250px;
+                    margin: -5px 0px 0px -5px;
+                }
+                
+                .quote {
+                    font-family: 'Play', sans-serif;
+                    color: azure;
+                    margin-left: 60px;
+                    font-size: 34px;
+                    margin-top: 60px;
+                }
+                
+                #link {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-around;
+                    align-items: center;
+                    height: 200px;
+                }
+                
+                .button-link {
+                    border-radius: 10px;
+                    border-width: 5px;
+                    opacity: 0.6;
+                    width: 400px;
+                    height: 100px;
+                    font-family: 'Play', sans-serif;
+                    font-size: 24px;
+                    color: black;
+                }
+                
+                .footer {
+                    display: flex;
+                    align-content: center;
+                    height: 10px;
+                    font-family: 'Tapestry', cursive;
+                    color: aliceblue;
+                    font-size: 15px;
+                    justify-content: center;
+                    margin-top: 5px;
+                }
+                
+                a:link {
+                    color: darkblue;
+                }
+                
+                a:hover {
+                    color: rgb(252, 235, 0);
+                }
+                
+                #body {
+                    background-image: url("../images/option-r.gif");
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 100%;
+                }
+                
+                #definition-container {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: space-evenly;
+                    align-items: center;
+                    height: 250px;
+                    margin-top: 60px;
+                }
+                
+                .definition {
+                    font-family: 'Play', sans-serif;
+                    font-size: 28px;
+                    color: antiquewhite;
+                }
+                
+                .def-text {
+                    font-size: 18px;
+                    color: white;
+                    font-family: 'Cinzel', serif;
+                    font-weight: 800;
+                }
+                
+                #uses-header {
+                    font-family: 'Play', sans-serif;
+                    font-size: 28px;
+                    color: antiquewhite;
+                    text-align: center;
+                }
+                
+                #image-container {
+                    display: flex;
+                    flex-direction: row;
+                    height: 400px;
+                    justify-content: space-evenly;
+                }
+                
+                #button-container {
+                    display: flex;
+                    flex-direction: row;
+                    height: 110px;
+                    justify-content: space-evenly;
+                    margin-top: 40px;
+                }
+                
+                .real-button {
+                    border-radius: 10px;
+                    border-width: 5px;
+                    opacity: 0.6;
+                    width: 200px;
+                    height: 80px;
+                    font-family: 'Play', sans-serif;
+                    font-size: 24px;
+                }
+                
+                .print-button {
+                    border-radius: 10px;
+                    border-width: 5px;
+                    opacity: 0.6;
+                    width: 200px;
+                    height: 80px;
+                    font-family: 'Play', sans-serif;
+                    font-size: 24px;
+                }
+                
+                .scan-button {
+                    border-radius: 10px;
+                    border-width: 5px;
+                    opacity: 0.6;
+                    width: 200px;
+                    height: 80px;
+                    font-family: 'Play', sans-serif;
+                    font-size: 24px;
+                }
+                
+                .quote-2 {
+                    font-family: 'Play', sans-serif;
+                    color: azure;
+                    font-size: 26px;
+                    margin-top: 30px;
+                }
+                
+                .footer-2 {
+                    display: flex;
+                    align-content: center;
+                    height: 10px;
+                    font-family: 'Tapestry', cursive;
+                    color: white;
+                    font-size: 20px;
+                    justify-content: center;
+                }
