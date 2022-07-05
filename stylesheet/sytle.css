@@ -1,9 +1,9 @@
-                #index-body {
-                    background-image: url("../images/main-image-2.gif");
-                    background-position: center;
-                    background-repeat: no-repeat;
-                    background-size: cover;
-                    height: 100%;
+    #index-body {
+    background-image: url("../images/main-image-2.gif");
+    background-position: center;
+ background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
                 }
                 
                 #header-container {
